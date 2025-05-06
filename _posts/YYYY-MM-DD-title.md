@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: Projects Baby Records
 date: 2025-05-06
 ---
 
